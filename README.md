@@ -1,5 +1,7 @@
 # mokkun's profile
-
+- Study in a Technical College
+- 18 years old
+- fun Anime NovelGame
 # NOW TRAINING
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,python,ae" /> <br/>
 
@@ -10,5 +12,5 @@
 もっとすごいグラフ表示しようと思ったけど、やっぱりやめた <br/>
 目指せ<span style="font-size:larger;color:green;">大</span><span style="font-size:larger;color:#8cc665;">草</span><span style="font-size:larger;color:#155724;">原</span>！
 
-![漏れの推し(かわいい)](https://imepic.jp/20240225/072210)
+<a href="https://ibb.co/vvtwC6j"><img src="https://i.ibb.co/G3hxf45/git-me.png" alt="漏れのかわいい推したち" border="0"></a>
 
