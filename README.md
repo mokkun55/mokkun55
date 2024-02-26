@@ -1,4 +1,5 @@
 # mokkun's profile
+
 - Study in a Technical College
 - 18 years old
 - fun Anime NovelGame
@@ -10,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokkun55&theme=default&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats) <br/><br/>
 もっとすごいグラフ表示しようと思ったけど、やっぱりやめた <br/>
-目指せ<span style="font-size:larger;color:green;">大</span><span style="font-size:larger;color:#8cc665;">草</span><span style="font-size:larger;color:#155724;">原</span>！
+目指せ**大草原**
 
 <a href="https://ibb.co/vvtwC6j"><img src="https://i.ibb.co/G3hxf45/git-me.png" alt="漏れのかわいい推したち" border="0"></a>
-
+<p align="center"> <漏れのかわいい推したち> </p>
