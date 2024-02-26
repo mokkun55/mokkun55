@@ -14,4 +14,4 @@
 目指せ**大草原**
 
 <a href="https://ibb.co/vvtwC6j"><img src="https://i.ibb.co/G3hxf45/git-me.png" alt="漏れのかわいい推したち" border="0"></a>
-<p align="center"> <漏れのかわいい推したち> </p>
+<p> <漏れのかわいい推したち> </p>
