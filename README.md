@@ -6,7 +6,7 @@
 - 18 years old
 - fun Anime NovelGame
 # NOW TRAINING
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,python,ae" /> <br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,ae" /> <br/>
 
 ## A little...
 <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,express,git,github,linux,raspberrypi," /> <br/>
