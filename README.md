@@ -4,7 +4,6 @@
 
 - Study in a Technical College
 - 18 years old
-- fun Anime NovelGame
 # NOW TRAINING
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /> <br/>
 
