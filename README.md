@@ -4,7 +4,7 @@
 
 - Study in a Technical College
 - 18 years old
-- PortfolioPage <a href="https://mokkun55.com" target="_brank">mokkun55.com</a>
+- PortfolioPage <a href="https://mokkun55.com" target="_blank">mokkun55.com</a>
 # NOW TRAINING
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next" /> <br/>
 
