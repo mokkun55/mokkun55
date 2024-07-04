@@ -6,7 +6,7 @@
 - 18 years old
 - PortfolioPage <a href="https://mokkun55.com" target="_blank">mokkun55.com</a>
 # NOW TRAINING
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next" /> <br/>
+<img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,next" /> <br/>
 
 ## A little...
 <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,express,git,github,linux,raspberrypi,nodejs" /> <br/>
