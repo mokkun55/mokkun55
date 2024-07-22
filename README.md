@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,next" /> <br/>
 
 ## A little...
-<img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,express,git,github,linux,raspberrypi,nodejs" /> <br/>
+<img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,express,git,github,linux,raspberrypi,nodejs,firebase" /> <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokkun55&theme=default&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats) <br/><br/>
 目指せ**大草原**
